@@ -1,2 +1,2 @@
 # Lab-6 
-# Aniel Alejandro Whittker Melian, UFID:52921277
+# Aniel A. Whittker Melian
